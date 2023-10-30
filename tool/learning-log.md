@@ -10,10 +10,10 @@ Project: **X**
 Explored the Hammer.js documentation
 * Has many uses to recognize touch guesture
 * The hammer.js library has all the variables to recognize the gesture
-* ["https://hammerjs.github.io/jsdoc/"]
+* https://hammerjs.github.io/jsdoc/
 
 10/29/23:
-* Watched tutorial. ["https://www.youtube.com/watch?v=UHSbJmKvGJo"]
+* Watched tutorial. https://www.youtube.com/watch?v=UHSbJmKvGJo
   * Learned that hammer.js can be applied to a word and send alerts when you preform an action on it such as clicking it or trying to drag it.
   * You can have it preform a function when the action is detected.
  
