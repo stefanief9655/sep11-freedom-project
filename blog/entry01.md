@@ -9,6 +9,7 @@ Originally I intended on using Hammer.js. I thought [Hammer.js](https://hammerjs
 After tinkerng, decided to switch to [math.js](https://mathjs.org/index.html). When you read a recipe, you always see measurements written in fractions, not decimals. Math.js has the ability to do the math of multiplying the recipe or dividing it, while using and returning fraction measuements. 
 
 Using `print(math.fraction('1/3'));` will display the fraction.
+
 Using `print(math.multiply(math.fraction('1/4'), math.fraction('1/2')))` will multiply the fractions together and return the value as the fraction of 1/8.
 
 I would say I focused a lot on the skill of how to read. Picking a tool was an important decision and I definetly wanted to do a lot of research before commiting to one. Reading the documentation is very different then reading a regular book. I needed to make sure it made sense and was actually going to help me with my project, and after research I think math.js will be helpful. It will help the user read the website more easily. 
