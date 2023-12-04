@@ -20,7 +20,19 @@ Explored the Hammer.js documentation
 11/05/23
 * Researched other tools and switched my tool
   * Math.js is a math code that can do math with fractions
-  * Fractions are the prefered measument I want so its easier to read the recipe 
+  * Fractions are the prefered measument I want so its easier to read the recipe
+ 
+12/04/23
+* I explored the rest of the things I can do with math.js. I decided the only thing I will use it for is fractions.
+* I studied and added to my sandbox for math.js.
+  * ``` js
+    // functions and constants
+    print(math.fraction('1/3'));    // 1/3
+    print(math.multiply(math.fraction('1/4'), math.fraction('1/2'))) // 1/8
+    print(math.log(10000, 10));                  // 4
+    print(math.sqrt(-4));                        // 2i
+    ```
+    * This is some of what I learned
  
 ### Questions 
 * Will this make my freedom project easier to create or will it end up taking more time then a possible other tool? 
