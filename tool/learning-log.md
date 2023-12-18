@@ -33,6 +33,10 @@ Explored the Hammer.js documentation
     print(math.sqrt(-4));                        // 2i
     ```
     * This is some of what I learned
+   
+12/13/23
+* Looked at possible things math.js can be used to create.
+* Practiced using the multiply part of math.js to see how I will utlize it in my freedom project. 
  
 ### Questions 
 * Will this make my freedom project easier to create or will it end up taking more time then a possible other tool? 
