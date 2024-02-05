@@ -34,8 +34,6 @@ Explored the Hammer.js documentation
     ```
     * This is some of what I learned
 
-01/08
-
 ### Questions
 * Will this make my freedom project easier to create or will it end up taking more time then a possible other tool?
 
