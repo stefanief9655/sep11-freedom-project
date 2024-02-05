@@ -36,7 +36,12 @@ Explored the Hammer.js documentation
    
 12/13/23
 * Looked at possible things math.js can be used to create.
-* Practiced using the multiply part of math.js to see how I will utlize it in my freedom project. 
+* Practiced using the multiply part of math.js to see how I will utlize it in my freedom project.
+
+01/30/24
+* Researched common errors found when using Math.js
+ * Spelling issues that cause errors
+ * Use the wrong Arithmetic functions for what your trying to do 
  
 ### Questions 
 * Will this make my freedom project easier to create or will it end up taking more time then a possible other tool? 
