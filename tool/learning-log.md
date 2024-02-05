@@ -21,7 +21,7 @@ Explored the Hammer.js documentation
 * Researched other tools and switched my tool
   * Math.js is a math code that can do math with fractions
   * Fractions are the prefered measument I want so its easier to read the recipe
- 
+
 12/04/23
 * I explored the rest of the things I can do with math.js. I decided the only thing I will use it for is fractions.
 * I studied and added to my sandbox for math.js.
@@ -33,12 +33,14 @@ Explored the Hammer.js documentation
     print(math.sqrt(-4));                        // 2i
     ```
     * This is some of what I learned
- 
-### Questions 
-* Will this make my freedom project easier to create or will it end up taking more time then a possible other tool? 
+
+01/08
+
+### Questions
+* Will this make my freedom project easier to create or will it end up taking more time then a possible other tool?
 
 
-<!-- 
+<!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
 * Challenges, a-ha moments, etc
