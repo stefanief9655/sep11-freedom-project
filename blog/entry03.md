@@ -1,7 +1,19 @@
 # Entry 3
-##### X/X/XX
+##### 02/05/24
 
-Text
+
+
+
+
+## Next Steps
+
+
+
+## EDP
+
+
+
+## Skills
 
 [Previous](entry02.md) | [Next](entry04.md)
 

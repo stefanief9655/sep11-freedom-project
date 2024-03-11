@@ -34,6 +34,25 @@ Explored the Hammer.js documentation
     ```
     * This is some of what I learned
 
+12/13/23
+
+* Looked at possible things math.js can be used to create.
+* Practiced using the multiply part of math.js to see how I will utlize it in my freedom project.
+
+01/30/24
+
+* Researched common errors found when using Math.js
+* Spelling issues that cause errors
+* Use the wrong Arithmetic functions for what your trying to do
+
+03/02/24
+* Tinkered with my tool and combined it with DOM to practice it before adding it to my freedom project.
+
+03/08/24
+* Added my tool to my project. I didn't work. Spelling is really important.
+  * Spelling `fraction` as `fratcion` doesn't work. No autocorrect and it can't just guess what I meant.
+
+
 ### Questions
 * Will this make my freedom project easier to create or will it end up taking more time then a possible other tool?
 
