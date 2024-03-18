@@ -27,6 +27,8 @@ My next steps are to actually integrate this into my project. I have the base of
 My current progress is still in the planning portion of the Engineering Design Process (EDP). I have mapped out how I plan to code this project and previously researched everything I should need for it. Next I will focus on the creating aspect of the EDP. This is when I will really start involving my tool and fufilling the purpose of my project.
 
 
+
+
 ## Skills
 
 Since my last entry I have focused on the skills of problem decomposition and consideration. I has taught me the importance of breaking tasks down into smaller tasks. This project is very intimidating but once its broken into smaller projects it lessens the intimidation. I also know that my intention is for this to be used by other people. In order for that to happen, I have to take into account that people of all different skill sets could use this so it is important it is functional to a larger demographic of people.
