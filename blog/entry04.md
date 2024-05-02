@@ -1,5 +1,5 @@
 # Entry 4
-##### X/X/XX
+##### 3/11/24
 
 My tool is Math.js but another important part of my project is DOM. In order to incorporate my tool into the project, I first have to use DOM. In my HTML, I have to add button and give them ID's. Using DOM, I will then select a button, and then use math.js on that section of the code. Each recipe has its own measurements, so each recipe needs its own set of buttons for adjusting quantity of product. That button will then change the measurements of each ingredient of that recipe.
 
