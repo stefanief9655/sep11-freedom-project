@@ -5,8 +5,27 @@ My tool is Math.js but another important part of my project is DOM. In order to 
 
 I started this with recipe one
 ```js
-```
+function doubleMeasurements() {
+  var ingredientsList = document.getElementById("ingredients").getElementsByTagName("li");
 
+  for (var i = 0; i < ingredientsList.length; i++) {
+    var ingredient = ingredientsList[i].innerText;
+    var measurement = parseFloat(ingredient.match(/\d+(\.\d+)?/));
+    var unit = ingredient.match(/[a-zA-Z]+/);
+
+    if (!isNaN(measurement)) {
+      var doubledMeasurement = measurement * 2;
+      ingredientsList[i].innerText = doubledMeasurement + ' ' + unit;
+    }
+  }
+}
+```
+* This code is run on ever `<li>` tag within the ingredients class.
+* The loop is designed to identify the measurment and unit.
+
+* This does not yet include my tool, but it also doesn't work properly.
+    * My tool is mainly just how the numbers are seen and how the are used in math.
+    *Biggest issue is when the button is clicked, any whole number you chose is doubled but the ingredient name is lost.
 ### EDP
 
 I am on step 5 of the engineering design process. This means I am actually starting to combine my outline of code with my actual tool and other aspects needed to make the final product.
