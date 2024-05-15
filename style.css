@@ -12,9 +12,9 @@ html, body {
   h4 {
     color: hotpink;
   }
-  h2 {
+  /* h2 {
     color: palevioletred;
-  }
+  } */
   ul {
     font-family: monospace;
   }
@@ -29,4 +29,7 @@ html, body {
   }
   .border {
     border:2px solid black
+  }
+  img {
+    width
   }
