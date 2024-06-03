@@ -8,15 +8,15 @@ For my project, I chose to independently study **math.js** in order to help me m
 
 ## Links
 
-[Product]()
+[Product](https://stefanief9655.github.io/sep11-freedom-project/)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1aGLg2rlm56QffEBnOorloef8Q5hzRDzoU2v0tIsy0d0/edit#slide=id.g2dde88e5534_4_378)
 
 ## Implications
 ##### PROS
-* 
+* My project makes for simpiler baking for anyone. Especially me
 ##### CONS
-* 
+* A new user might accidentently make way to many cookies resulting a a waste of materials and extra enviormental damage done by using an over for more time. 
 
 
 ## Blog
