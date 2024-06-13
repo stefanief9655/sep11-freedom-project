@@ -14,9 +14,13 @@ For my project, I chose to independently study **math.js** in order to help me m
 
 ## Implications
 ##### PROS
-* My project makes for simpiler baking for anyone. Especially me
+* My project makes for simpiler baking for anyone. Especially me.
+* It's user friendly
+* Allows for customization with ease and no stress about math
 ##### CONS
-* A new user might accidentently make way to many cookies resulting a a waste of materials and extra enviormental damage done by using an over for more time. 
+* A new user might accidentently make way to many cookies resulting a a waste of materials
+* Some websites have this in them already but only for one recipe
+* Easy to replicate
 
 
 ## Blog
