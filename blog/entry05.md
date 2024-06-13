@@ -11,7 +11,7 @@ var doubledFraction = math.fraction(originalFraction.n * 2, originalFraction.d);
 ```
 In this case, each measurement was in an array. First the origionalFraction variable ensure it eas a fraction. Then, the doubleFraction variable multiplied the numerator of the fraction (origionalFraction.n) by 2 to double it. For the button that is used to half the recipe, it uses the same code but instead of doubleing the numerator it double the denominator.  
 
-I used the (math.js)[https://mathjs.org/docs/index.html] libraries to learn how to differentiate the numerator and the denominator in code.
+I used the [math.js](https://mathjs.org/docs/index.html) libraries to learn how to differentiate the numerator and the denominator in code.
 
 ### Engineering Design Process
 
